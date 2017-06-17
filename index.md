@@ -1,5 +1,5 @@
 # Welcome to my homepage
-Last modified: 2017-06-17
+Last modified: June 17 2017
 
 Welcome to my homepage on GitHub.
 
