@@ -5,5 +5,5 @@
 - I'm learning C++ & Java all by myself there days.
 
 ## About this page
-- I'm new on here and this is my homepage on GitHub.
+- I'm new here and this is my homepage on GitHub.
 - I'll update my programs and status on this page.
