@@ -12,11 +12,11 @@ description:      'Talk is cheap, show me the work!'
 url:              https://lxxxc.github.io/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'lxxxc'
+  url:            https://lxxxc.github.io/
 
 paginate:         5
 
 
 github:
-  repo:           https://lxxxc.github.io/
+  repo:           https://github.com/lxxxc
