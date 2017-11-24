@@ -9,7 +9,7 @@ permalink:        pretty
 title:            lxxxc
 tagline:          ''
 description:      'Talk is cheap, show me the work!'
-url:              http://lanyon.getpoole.com
+url:              https://lxxxc.github.io/
 
 author:
   name:           'Mark Otto'
@@ -17,8 +17,6 @@ author:
 
 paginate:         5
 
-# Custom vars
-version:          2.0.0
 
 github:
-  repo:           https://github.com/poole/lanyon
+  repo:           https://lxxxc.github.io/
